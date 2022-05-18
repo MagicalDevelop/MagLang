@@ -1,3 +1,3 @@
 # MagLang
-MagLang Easy Language programming
-test
+*Simple and easy programming language*
+# Learn the MagLang programming language : :)
