@@ -1,10 +1,9 @@
 {
     "name": "magicaldevelop/maglang",
     "minimum-stability": "dev",
-    "authors": [
+    "authors": 
         {
             "name": "Magic Dev",
             "email": "magicaldev1@gmail.com"
         }
-    ],
 }
