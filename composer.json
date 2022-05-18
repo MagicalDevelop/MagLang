@@ -1,9 +1,8 @@
 {
-    "name": "magicaldevelop/maglang",
-    "minimum-stability": "dev",
-    "authors": 
-        {
-            "name": "Magic Dev",
-            "email": "magicaldev1@gmail.com"
-        }
+    "name": "magicdevelop/maglang",
+    "description": "We made this language with a lot of effort so that you can write programs easily",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
 }
