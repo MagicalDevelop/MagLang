@@ -1,8 +1,0 @@
-{
-    "name": "magicdevelop/maglang",
-    "description": "We made this language with a lot of effort so that you can write programs easily",
-    "require": {
-        "php": ">=7.4",
-        "another-vendor/package": "1.*"
-    }
-}
